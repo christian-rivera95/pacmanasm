@@ -1,3 +1,0 @@
-/home/christian/Documents/pacmanasm/easyasm-plugin-sample/build/CMakeFiles/rebuild_cache.dir
-/home/christian/Documents/pacmanasm/easyasm-plugin-sample/build/CMakeFiles/edit_cache.dir
-/home/christian/Documents/pacmanasm/easyasm-plugin-sample/build/CMakeFiles/sc-plugin.dir
