@@ -8,6 +8,7 @@ exponent:
         beq $r3, $r0,looper
         mul $r7, $r7, $r2
         sub $r3, $r3, $r1
+        jmp while_start
     while_end:
 
 looper:
