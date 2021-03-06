@@ -5,9 +5,9 @@ exponent:
     li $r3, 3 // exponente
     li $r7, 1 //res
     while_start:
-        beq $r3, $r0,looper
+        beq $r3, $r0,while_end
         mul $r7, $r7, $r2
-        sub $r3, $r3, $r1
+        sub $r3, $r3, $r1 //exponente --
         jmp while_start
     while_end:
 
